@@ -18,5 +18,6 @@ public class MathFunc {
         System.out.println(total);
 
         int result3 = MathFunc.func1(100);
+
     }
 }
