@@ -1,6 +1,8 @@
 package ru.job4j.loop;
 
 import org.junit.jupiter.api.Test;
+import ru.job4j.array.FindLoop;
+
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class FindLoopTest {
