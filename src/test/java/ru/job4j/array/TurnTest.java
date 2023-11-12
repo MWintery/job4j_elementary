@@ -4,6 +4,7 @@ import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class TurnTest {
+
     @Test
     void whenTurnArrayWithEvenAmountOfElementsThenTurnedArray() {
         int[] input = new int[] {4, 1, 6, 2};
